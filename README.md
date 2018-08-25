@@ -2,12 +2,19 @@
 
 
 **addcslashes**  — Escapa una cadena al estilo de C
+
 **addslashes** — Escapa un string con barras invertidas
+
 **bin2hex** — Convierte datos binarios en su representación hexadecimal
+
 **chop** — Alias de rtrim
+
 **chr** — Devuelve un caracter específico
+
 **chunk_split** — Divide una cadena en trozos más pequeños
+
 **convert_cyr_string** — Convierte de un juego de caracteres cirílico a otro juego de caracteres cirílico
+
 **convert_uudecode** — Descodifica una cadena codificada mediante uuencode
 **convert_uuencode** — Codificar mediante uuencode una cadena
 **count_chars** — Devuelve información sobre los caracteres usados en una cadena
