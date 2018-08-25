@@ -1,6 +1,6 @@
 # PHP-Certification
 
-```javascripr
+```
 **addcslashes**  — Escapa una cadena al estilo de C
 ** addslashes ** — Escapa un string con barras invertidas
 bin2hex — Convierte datos binarios en su representación hexadecimal
@@ -99,4 +99,3 @@ vfprintf — Escribe un string con formato en un flujo
 vprintf — Muestra una cadena con formato
 vsprintf — Devuelve una cadena con formato
 wordwrap — Ajusta un string hasta un número dado de caracteres
-```
