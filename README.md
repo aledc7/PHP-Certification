@@ -216,3 +216,12 @@ dada
 ***
 **wordwrap** : Ajusta un string hasta un número dado de caracteres
 ***
+
+
+
+
+- [x] ING. ALEJANDRO DE CASTRO
+- [X] PHP CERTIFICATION
+- [X] W3Schools
+- [x] ing.alejandrodecastro@gmail.com
+
