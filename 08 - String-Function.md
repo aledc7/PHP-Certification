@@ -162,9 +162,7 @@ minúsculas
 ***
 **strnatcmp** : Comparación de strings utilizando un algoritmo de "orden natural"
 ***
-**strncasecmp** : Comparación de los primeros n caracteres de cadenas, segura con material binario e insensible a mayúsculas y 
-***
-**minúsculas**
+**strncasecmp** : Comparación de los primeros n caracteres de cadenas, segura con material binario e insensible a mayúsculas y minúsculas.
 ***
 **strncmp** : Comparación segura a nivel binario de los primeros n caracteres entre strings
 ***
