@@ -1,10 +1,9 @@
 
 ###### Esta es la lista completa de las funciones para manejo de STRINGS en PHP, con una breve descripción de cada una.
 
-- [x] ING. ALEJANDRO DE CASTRO
 - [X] PHP CERTIFICATION
 - [X] W3Schools
-- [x] ing.alejandrodecastro@gmail.com
+
 
 
 
@@ -218,8 +217,8 @@ dada
 
 
 
-- [x] ING. ALEJANDRO DE CASTRO
+
 - [X] PHP CERTIFICATION
 - [X] W3Schools
-- [x] ing.alejandrodecastro@gmail.com
+
 
