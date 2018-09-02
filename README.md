@@ -4,5 +4,4 @@
 
 - [x] Ing. Alejandro De Castro
 - [x] W3Schools
-- [x] MAMP
-- [X] MAC :)
+
