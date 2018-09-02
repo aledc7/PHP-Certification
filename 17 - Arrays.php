@@ -82,6 +82,8 @@ echo "<br>";
 
 $edad = array("Alejandro"=>"35", "Cesar"=>"37", "De Castro"=>"33");
 
+$array2 = array("Ale",22,33);
+
 
 //como vemos, dentro del foreach se le pasa primero la variable del array $edad, y luego dice as y dos variables mas.
 // estas dos variables, la primera representará los indices, y la segundda variable representa el valor de cada indice.
