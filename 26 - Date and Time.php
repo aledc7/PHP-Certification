@@ -148,6 +148,9 @@ echo "Faltan " . $d2 ." dias para la Primavera :)";
 // https://www.w3schools.com/php/php_ref_date.asp
 
 
+echo "<p>Copyright &copy; 1979-" . date("Y") . " Ale DC</p>";
+
+
 ?>
 
 </body>
