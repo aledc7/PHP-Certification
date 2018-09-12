@@ -3,7 +3,7 @@
 <head><Title>31 - File Upload</Title></head>
 <body>
 
-<!-- Primeramente este capítulo avisa que es necesario habilitar la carda de archivos en la configuración del php.ini
+<!-- Primeramente este capítulo avisa que es necesario habilitar la carga de archivos en la configuración del php.ini
 y setear: 
 
 file_uploads = On 
