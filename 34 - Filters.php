@@ -57,9 +57,9 @@ echo "<br>";
 
 // Ejemplo para validad si una variable tiene un dato entero:
 
-$int = 10;
+$valor = 10;
 
-if (filter_var($int, FILTER_VALIDATE_INT) == true) {
+if (filter_var($valor, FILTER_VALIDATE_INT) == true) {
     echo("Integer is valid");
 } else {
     echo("Integer is not valid");
