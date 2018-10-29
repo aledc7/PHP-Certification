@@ -33,8 +33,7 @@ echo "<br>";
 // un util ejemplo es usar esta función time, para actualizar automáticamente el copyright del footer de los sitios web:
 
 
-echo "Copyright&copy; 2010- " . date("Y")."Ingenea SRL";
-   
+echo "Copyright&copy; " . date("Y")." Ingenea SRL";   
 
 
 echo "<br>";
