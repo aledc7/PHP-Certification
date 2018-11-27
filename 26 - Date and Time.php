@@ -38,6 +38,7 @@ echo "Copyright&copy; " . date("Y")." Ingenea SRL";
 
 echo "<br>";
 
+echo "Copyright&copy; " . date("Y")." Ingenea SRL";   
 
 
 echo "<br>";
