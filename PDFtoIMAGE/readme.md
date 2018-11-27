@@ -32,6 +32,8 @@
 
 
 ```javascript
+
+<?php
 $im = new imagick();
 $im->setResolution(300, 300);
 $im->readimage('ale.pdf[0]');
@@ -45,6 +47,8 @@ $im->resizeImage(1200, 0,  imagick::FILTER_LANCZOS, 1);
 $im->writeImage('archivo_de_salida.jpg'); 
 $im->clear(); 
 $im->destroy();
+
+?>
 ```
 
 
