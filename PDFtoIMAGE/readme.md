@@ -10,9 +10,9 @@ Luego la linea de $im->writeImage('archivo_de_salida.jpg')   será el nombre que
 
 
 
-### DEPENDENCIAS   ************
+### DEPENDENCIAS
 
-  Para que imagick funcione pueda que en algunos casos deba tener las librerias y dependencias instaladas.
+  Para que imagick funcione necesitaras tener las librerias y dependencias instaladas.
    En tal caso verificar la instalacion con este comando en la terminal.
    
    En windows la instalación puede ser bastante complicada pero en servidores es mas simple.
