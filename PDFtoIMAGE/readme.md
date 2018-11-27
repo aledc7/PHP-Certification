@@ -1,17 +1,21 @@
-## Como transformar archivos PDF a Imagenes de alta calidad usando la libreria de PHP "imagick"
+## Transformar archivos PDF a Imagenes de alta calidad usando la libreria de PHP "imagick"
+
+## How to transform PDF to Images using imagick Library
 
 
 ### Este códig transformará archivos PDF a imágenes de calidad.
 
-#### Solo se deberaá reemplazar $im->readimage('ale.pdf[0]')  reemplazando ale.pdf por el nombre y ruta del archivo pdf a transformar.
-##### luego la linea de $im->writeImage('archivo_de_salida.jpg')   será el nombre que tendrá la imagen creada.
+Solo se deberaá reemplazar $im->readimage('ale.pdf[0]')  reemplazando ale.pdf por el nombre y ruta del archivo pdf a transformar.
+Luego la linea de $im->writeImage('archivo_de_salida.jpg')   será el nombre que tendrá la imagen creada.
 
 
 
 ### DEPENDENCIAS   ************
 
   Para que imagick funcione pueda que en algunos casos deba tener las librerias y dependencias instaladas.
-   En tal caso verificar la instalacion con este comando en la terminal
+   En tal caso verificar la instalacion con este comando en la terminal.
+   
+   En windows la instalación puede ser bastante complicada pero en servidores es mas simple.
    ```
    'convert -version
    ```
@@ -25,10 +29,15 @@
   
   https://www.vultr.com/docs/install-imagemagick-on-centos-6
   
+ INSTALAR EN MAC
+ ```
+ brew install ImageMagick
+ ```
+ 
  
 
 
-
+CODIGO PROBADO FUNCIONANDO:
 
 
 ```javascript
