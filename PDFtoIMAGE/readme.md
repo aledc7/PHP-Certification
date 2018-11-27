@@ -33,9 +33,13 @@
 
 ```javascript
 
+# Configuración para máxima calidad.
+
+
 <?php
 $im = new imagick();
 $im->setResolution(300, 300);
+//reemplazar por la ruta correcta
 $im->readimage('ale.pdf[0]');
 $im->setImageResolution(300, 300);
 $im->setImageBackgroundColor('#ffffff');
@@ -43,7 +47,9 @@ $im = $im->flattenImages();
 $im->setImageFormat('jpeg');
 $im->setImageCompression(imagick::COMPRESSION_JPEG);
 $im->setImageCompressionQuality(100);
+// verificar otras alternativas de filtros si quieres hilar fino.
 $im->resizeImage(1200, 0,  imagick::FILTER_LANCZOS, 1); 
+// setear el nombre del archivo de salida
 $im->writeImage('archivo_de_salida.jpg'); 
 $im->clear(); 
 $im->destroy();
