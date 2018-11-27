@@ -10,23 +10,10 @@
 // ejemplo de la estructura Switch en PHP:
 
 
+echo 'hola2';
 
 
-$favcolor = "azul";
 
-switch ($favcolor) {
-    case "rojo":
-        echo "El color es Rojo";
-        break;
-    case "azul":
-        echo "El color es Azul";
-        break;
-    case "verde":
-        echo "El color es Verde";
-        break;
-    default:
-        echo "El color no es ni Rojo, ni Azul, Ni verde... será otro";
-}
 ?>
  
 </body>
