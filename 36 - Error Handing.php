@@ -47,14 +47,17 @@ if (!file_exists("Bienvenido.txt")) {
 
 // CREANDO UN CONTROLADOR DE ERRORES PERSONALIZADO
 
-// Un controlador de errores o 'Custom Error Handler'  no es mas que una funcion que creamos nosotros mismos, para que esta se ejecute cuando ocurra algún error.
+// Un controlador de errores o 'Custom Error Handler'  no es mas que una funcion que creamos nosotros mismos, para que esta  
+// se ejecute cuando ocurra algún error.
 // De este modo, podrémos tomar alguna acción para manejar ese problema
-// Tengamos en cuenta que en ese momento, tendrémos muchas variables de entorno con valores asignados. Estas variables nos interesará no perder su información por ejemplo.
+// Tengamos en cuenta que en ese momento, tendrémos muchas variables de entorno con valores asignados.  
+// Estas variables nos interesará guardarlas para procesarlas luego.
 
-//Esta funcion debe recibir como mínimo 2 parámetros, aunque se le pueden pasar hasta cinco... veamos...
+// Esta funcion debe recibir como mínimo 2 parámetros, aunque se le pueden pasar hasta cinco... veamos...
 
 /**
- *  error_level:  Parámetro Obligatorio -  Es un valor que representa el tipo de nivel de error que se aplicará, los niveles son:
+ *  error_level:  Parámetro Obligatorio -  Es un valor que representa el tipo de nivel de error que se aplicará.  
+ *  Los niveles son:
  *
  *      2 - E_WARNING           = Son errores no fatales o warnings, el script no se detendrá.
  *      8 - E_NOTICE            = En realidad son avisos de posibles errores, generados por php, puede que ande perfecto el código y dé uno de estos errores.
