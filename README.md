@@ -1,4 +1,4 @@
-# PHP 5 - CERTIFICATION 
+# PHP 5 - CERTIFICACION 
 [<img src="https://github.com/aledc7/PHP-Certification/blob/master/w3certified_logo.png?raw=true">](https://certification.w3schools.com/w3certified.asp?id=10028427)
 
 
