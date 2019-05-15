@@ -6,9 +6,9 @@
 - [x] W3Schools
 
 Inline-style: 
-![alt text](https://github.com/aledc7/PHP-Certification/blob/master/w3certified_logo.png?raw=true "Alejandro De Castro Certified")
+![https://certification.w3schools.com/w3certified.asp?id=10028427](https://github.com/aledc7/PHP-Certification/blob/master/w3certified_logo.png?raw=true "Alejandro De Castro Certified")
 
-https://github.com/aledc7/PHP-Certification/blob/master/w3certified_logo.png?raw=true
+
 
 ![https://certification.w3schools.com/w3certified.asp?id=10028427](https://github.com/aledc7/PHP-Certification/blob/master/w3certified_logo.png?raw=true)
 
@@ -17,4 +17,6 @@ Reference-style:
 
 [logo]: https://github.com/aledc7/PHP-Certification/blob/master/w3certified_logo.png?raw=true " Alejandro De Castro Certified"
 
-
+```
+https://certification.w3schools.com/w3certified.asp?id=10028427
+```
