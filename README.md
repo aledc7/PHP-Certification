@@ -5,7 +5,7 @@
 
 
 ###### Repositorio con la ejercitación  y documentación del la certificación en PHP de la W3Schools.com que he comenzado a realizar el día Jueves 23 de Agosto de 2018.
- La misma la he finalizada el día Martes 14 de Mayo de 2019. Puede verificar el certificado haciendo click en el Logo de la W3School.
+ La misma la he finalizada el día Martes 14 de Mayo de 2019. Puede verificar el certificado haciendo click en el Logo de la W3 School.
  
  
 
